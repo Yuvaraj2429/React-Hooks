@@ -29,4 +29,5 @@ class Myclassone extends Component {
     }
 }
 
+
 export default Myclassone
